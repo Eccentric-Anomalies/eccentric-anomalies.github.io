@@ -22,6 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: Eccentric-Anomalies
 minimal_mistakes_skin: default
+url: "https://eccentricanomalies.com"
 search: true
 
 # Build settings
