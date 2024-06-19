@@ -1,5 +1,5 @@
 ---
-title: "Tungsten Moon 0.1.2 Introduces Game Save and Tasks!"
+title: "Coming Up in 0.1.3: Input Reassignment UI"
 date: 2024-06-19T15:35:00
 categories:
   - blog
