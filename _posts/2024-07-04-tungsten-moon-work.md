@@ -1,5 +1,5 @@
 ---
-title: "Coming Up in 0.1.3: Input Reassignment UI"
+title: "New in 0.1.4: Realistic Landing Gear Physics"
 date: 2024-07-04T17:35:00
 categories:
   - blog
